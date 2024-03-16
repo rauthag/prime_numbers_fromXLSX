@@ -40,4 +40,4 @@ git clone https://github.com/rauthag/prime_numbers_fromXLSX.git
    
 
 ## Releases
-- [Download PrimeNumbersFromXLSX.jar](#) ([Replace # with the actual link](https://github.com/rauthag/prime_numbers/releases/tag/v1.0.0))
+- [Download PrimeNumbersFromXLSX.jar](https://github.com/rauthag/prime_numbers/releases/tag/v1.0.0)
