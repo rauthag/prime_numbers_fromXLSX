@@ -32,12 +32,13 @@ This Java program extracts prime numbers from an Excel file (.xlsx) and displays
   <img src="https://i.postimg.cc/dtkwK0wP/Screenshot-1.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
+## Releases
+- [Download PrimeNumbersFromXLSX.jar](https://github.com/rauthag/prime_numbers/releases/tag/v1.0.0)
+
+[epub](https://github.com/name/project/releases/download/v1.0.0/book.epub)
 
 ### Quick Clone
 
 ```bash
 git clone https://github.com/rauthag/prime_numbers_fromXLSX.git
    
-
-## Releases
-- [Download PrimeNumbersFromXLSX.jar](https://github.com/rauthag/prime_numbers/releases/tag/v1.0.0)
