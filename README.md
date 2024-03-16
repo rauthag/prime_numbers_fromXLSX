@@ -35,8 +35,6 @@ This Java program extracts prime numbers from an Excel file (.xlsx) and displays
 ## Releases
 - [Download PrimeNumbersFromXLSX.jar](https://github.com/rauthag/prime_numbers/releases/tag/v1.0.0)
 
-[epub](https://github.com/name/project/releases/download/v1.0.0/book.epub)
-
 ### Quick Clone
 
 ```bash
