@@ -29,7 +29,7 @@ This Java program extracts prime numbers from an Excel file (.xlsx) and displays
     java -jar prime_numbers.jar
     ```
 <p align="center">
-  <img src="(https://i.postimg.cc/dtkwK0wP/Screenshot-1.jpg)?raw=true" alt="Sublime's custom image"/>
+  <img src="https://i.postimg.cc/dtkwK0wP/Screenshot-1.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
