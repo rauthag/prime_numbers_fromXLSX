@@ -28,8 +28,7 @@ This Java program extracts prime numbers from an Excel file (.xlsx) and displays
     ```
     java -jar prime_numbers.jar
     ```
-
-    ![Screenshot]([https://example.com/path/to/screenshot.png](https://imgur.com/a/2ahyKWa))
+    ![Alt text]([https://example.com/path/to/screenshot.png](https://imgur.com/a/2ahyKWa))
    
 
 ### Quick Clone
